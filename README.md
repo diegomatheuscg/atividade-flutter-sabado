@@ -1,17 +1,13 @@
-# app_sabado_letivo
+# Atividade Sabado Letivo - Configuracao de Ambiente Flutter
 
-A new Flutter project.
+Este repositorio contem o projeto inicial criado para validar a configuracao do ambiente de desenvolvimento Flutter e Dart, conforme roteiro da disciplina.
 
-## Getting Started
+## Atividades Realizadas
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Instalacao e configuracao do Flutter SDK e VS Code.
+2. Criacao da estrutura de projeto padrao.
+3. Analise tecnica da estrutura de diretorios (lib, pubspec.yaml).
+4. Execucao em Emulador Android.
+5. Execucao na Web (Chrome).
+6. Criação do repositório no GitHub.
+7. Apresentar a configuração de um novo ambiente flutter e suas estruturas em vídeo.
